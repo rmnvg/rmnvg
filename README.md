@@ -1,6 +1,15 @@
 ## Hi there 👋
 ![Ramanjot's GitHub stats](https://github-readme-stats.vercel.app/api?username=rmnvg&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rmnvg&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=rmnvg&theme=radical)
+
+![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=rmnvg&theme=react-dark)
+
+
+
+
 <!--
 **rmnvg/rmnvg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
