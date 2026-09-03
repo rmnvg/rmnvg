@@ -1,7 +1,7 @@
 ## Hi there! I'm Ramanjot Singh 👋
 
 🎓 B.Tech CSE | NSUT  
-💼 Software Engineering - 1 @ Zinnia  
+💼 Ex- Software Engineering - 1 @ Zinnia  
 🔭 Currently working on Gen AI 
 [LinkedIn](https://linkedin.com/in/ramanjot-singh-5b574422b/)
 
@@ -14,10 +14,6 @@
 | **Database** | ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb) ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql) |
 | **Tools & Platforms** | ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github) ![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code) |
 
-
-![Ramanjot's GitHub stats](https://github-readme-stats.vercel.app/api?username=rmnvg&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rmnvg&layout=compact&theme=radical)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=rmnvg&theme=radical)
 
