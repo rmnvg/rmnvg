@@ -39,8 +39,11 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=rmnvg&theme=tokyonight&hide_border=true)
+<p align="center">
+  <a href="https://github.com/rmnvg">
+    <img src="https://streak-stats.demolab.com?user=rmnvg&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
+</p>
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=ramanjotsingh247&color=blue)
 
