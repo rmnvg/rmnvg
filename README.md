@@ -4,6 +4,10 @@
 
 ### Python Backend & Generative AI Engineer
 
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Building+RAG+%26+Agentic+AI+systems;FastAPI+%2B+LangChain+%2B+AWS+%2B+Docker;15K%2B+LinkedIn+community+%7C+1M%2B+content+views;Open+to+Backend+%2F+GenAI+opportunities" alt="Typing SVG" />
+
+
 🎓 B.Tech in Computer Science from **NSUT, Delhi**  
 💼 Former Software Engineer – GenAI at **Zinnia**  
 📍 Delhi, India | Available for Opportunities
