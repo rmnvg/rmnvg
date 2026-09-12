@@ -22,11 +22,13 @@
 
 ## 👨‍💻 About Me
 
+- 🌐 Check out my work at [portfolioraman.vercel.app](https://portfolioraman.vercel.app)
 - 🤖 Building production-oriented **Generative AI, RAG, and document-intelligence systems**
 - ⚙️ Experienced in backend development using **Python, FastAPI, and Django**
 - ☁️ Hands-on experience with **AWS, Docker, REST APIs, and event-driven architecture**
 - 🌱 Currently exploring **AI Agents, Agentic Workflows, and scalable system design**
 - ✍️ Built a LinkedIn community of **15K+ followers** with over **1M content views**
+
 
 ---
 ## 🛠️ Tech Stack
