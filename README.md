@@ -43,17 +43,18 @@
 | **Cloud & Tools** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Lambda](https://img.shields.io/badge/Lambda-4B4B4B?style=flat-square) ![S3](https://img.shields.io/badge/S3-4B4B4B?style=flat-square) ![EC2](https://img.shields.io/badge/EC2-4B4B4B?style=flat-square) ![REST APIs](https://img.shields.io/badge/REST%20APIs-4B4B4B?style=flat-square) ![CI/CD](https://img.shields.io/badge/CI%2FCD-4B4B4B?style=flat-square) |
 
 <div align="center">
-<p align="center">
-  <a href="https://github.com/rmnvg">
-    <img src="https://streak-stats.demolab.com?user=rmnvg&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
-</p>
-
+  
+![GitHub followers](https://img.shields.io/github/followers/rmnvg?style=social)
+![GitHub stars](https://img.shields.io/github/stars/rmnvg?style=social)
 ![Visitor Count](https://komarev.com/ghpvc/?username=ramanjotsingh247&color=blue)
 
 </div>
 
 ---
+
+
+
+
 ## 🤝 Let's Connect
 
 I am interested in opportunities involving:
