@@ -42,6 +42,35 @@
 | **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white) |
 | **Cloud & Tools** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Lambda](https://img.shields.io/badge/Lambda-4B4B4B?style=flat-square) ![S3](https://img.shields.io/badge/S3-4B4B4B?style=flat-square) ![EC2](https://img.shields.io/badge/EC2-4B4B4B?style=flat-square) ![REST APIs](https://img.shields.io/badge/REST%20APIs-4B4B4B?style=flat-square) ![CI/CD](https://img.shields.io/badge/CI%2FCD-4B4B4B?style=flat-square) |
 
+
+
+
+## 📦 Packages I Published
+
+
+### 🧠 [MemBlame](https://github.com/rmnvg/memblame)
+
+**Git blame for memory: find the commit and function behind a memory regression.**
+
+Run Python workloads across Git revisions, compare peak and retained memory, and connect significant growth to functions and changed code. Includes CI reports and an editor extension.
+
+[![PyPI](https://img.shields.io/pypi/v/memblame?style=flat-square&label=PyPI)](https://pypi.org/project/memblame/)
+[![Downloads](https://img.shields.io/pypi/dm/memblame?style=flat-square&label=downloads%2Fmonth)](https://pypistats.org/packages/memblame)
+[![GitHub stars](https://img.shields.io/github/stars/rmnvg/memblame?style=flat-square&logo=github)](https://github.com/rmnvg/memblame)
+
+### 🔍 [HistoDiff](https://github.com/rmnvg/histodiff)
+
+**Human-readable diffs for moved, repeated, or reformatted text.**
+
+A dependency-free Python diff engine with histogram, patience, and Myers algorithms, moved-block detection, word-level highlighting, Git integration, and terminal, HTML, and JSON output.
+
+[![PyPI](https://img.shields.io/pypi/v/histodiff?style=flat-square&label=PyPI)](https://pypi.org/project/histodiff/)
+[![Downloads](https://img.shields.io/pypi/dm/histodiff?style=flat-square&label=downloads%2Fmonth)](https://pypistats.org/packages/histodiff)
+[![GitHub stars](https://img.shields.io/github/stars/rmnvg/histodiff?style=flat-square&logo=github)](https://github.com/rmnvg/histodiff)
+
+---
+
+
 <div align="center">
   
 ![GitHub followers](https://img.shields.io/github/followers/rmnvg?style=social)
