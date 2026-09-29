@@ -4,13 +4,15 @@
 
 ### Python Backend & Generative AI Engineer
 
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Building+RAG+%26+Agentic+AI+systems;FastAPI+%2B+LangChain+%2B+AWS+%2B+Docker;15K%2B+LinkedIn+community+%7C+1M%2B+content+views;Open+to+Backend+%2F+GenAI+opportunities" alt="Typing SVG" />
 
+<br/>
 
-🎓 B.Tech in Computer Science from **NSUT, Delhi**  
-💼 Former Software Engineer – GenAI at **Zinnia**  
+🎓 B.Tech in Computer Science from **NSUT, Delhi**<br/>
+💼 Former Software Engineer – GenAI at **Zinnia**<br/>
 📍 Delhi, India | Available for Opportunities
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ramanjot%20Singh-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ramanjot-singh-5b574422b/)
 [![GitHub](https://img.shields.io/badge/GitHub-rmnvg-181717?style=for-the-badge&logo=github)](https://github.com/rmnvg)
@@ -29,8 +31,8 @@
 - 🌱 Currently exploring **AI Agents, Agentic Workflows, and scalable system design**
 - ✍️ Built a LinkedIn community of **15K+ followers** with over **1M content views**
 
-
 ---
+
 ## 🛠️ Tech Stack
 
 | Category | Technologies |
@@ -42,11 +44,9 @@
 | **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white) |
 | **Cloud & Tools** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Lambda](https://img.shields.io/badge/Lambda-4B4B4B?style=flat-square) ![S3](https://img.shields.io/badge/S3-4B4B4B?style=flat-square) ![EC2](https://img.shields.io/badge/EC2-4B4B4B?style=flat-square) ![REST APIs](https://img.shields.io/badge/REST%20APIs-4B4B4B?style=flat-square) ![CI/CD](https://img.shields.io/badge/CI%2FCD-4B4B4B?style=flat-square) |
 
-
-
+---
 
 ## 📦 Packages I Published
-
 
 ### 🧠 [MemBlame](https://github.com/rmnvg/memblame)
 
@@ -55,7 +55,7 @@
 Run Python workloads across Git revisions, compare peak and retained memory, and connect significant growth to functions and changed code. Includes CI reports and an editor extension.
 
 [![PyPI](https://img.shields.io/pypi/v/memblame?style=flat-square&label=PyPI)](https://pypi.org/project/memblame/)
-[![Downloads](https://img.shields.io/pypi/dm/memblame?style=flat-square&label=downloads%2Fmonth)](https://pypistats.org/packages/memblame)
+[![Downloads](https://img.shields.io/pypi/dm/memblame?style=flat-square&label=downloads)](https://pypistats.org/packages/memblame)
 [![GitHub stars](https://img.shields.io/github/stars/rmnvg/memblame?style=flat-square&logo=github)](https://github.com/rmnvg/memblame)
 
 ### 🔍 [HistoDiff](https://github.com/rmnvg/histodiff)
@@ -65,24 +65,28 @@ Run Python workloads across Git revisions, compare peak and retained memory, and
 A dependency-free Python diff engine with histogram, patience, and Myers algorithms, moved-block detection, word-level highlighting, Git integration, and terminal, HTML, and JSON output.
 
 [![PyPI](https://img.shields.io/pypi/v/histodiff?style=flat-square&label=PyPI)](https://pypi.org/project/histodiff/)
-[![Downloads](https://img.shields.io/pypi/dm/histodiff?style=flat-square&label=downloads%2Fmonth)](https://pypistats.org/packages/histodiff)
+[![Downloads](https://img.shields.io/pypi/dm/histodiff?style=flat-square&label=downloads)](https://pypistats.org/packages/histodiff)
 [![GitHub stars](https://img.shields.io/github/stars/rmnvg/histodiff?style=flat-square&logo=github)](https://github.com/rmnvg/histodiff)
 
 ---
 
+## 📊 GitHub Stats
 
 <div align="center">
-  
+
 ![GitHub followers](https://img.shields.io/github/followers/rmnvg?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/rmnvg?style=social)
-![Visitor Count](https://komarev.com/ghpvc/?username=ramanjotsingh247&color=blue)
+![Profile views](https://komarev.com/ghpvc/?username=ramanjotsingh247&color=blue&label=Profile+views)
+
+<br/>
+
+<a href="https://github.com/rmnvg">
+  <img alt="rmnvg GitHub streak" src="https://streak-stats.demolab.com/?user=rmnvg&theme=dark&hide_border=true" />
+</a>
 
 </div>
 
 ---
-
-
-
 
 ## 🤝 Let's Connect
 
@@ -98,6 +102,5 @@ I am interested in opportunities involving:
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ramanjot-singh-5b574422b/)
 [![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramanjotsingh247@gmail.com)
-
 
 </div>
