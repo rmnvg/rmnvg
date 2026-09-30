@@ -29,6 +29,7 @@
 - ⚙️ Experienced in backend development using **Python, FastAPI, and Django**
 - ☁️ Hands-on experience with **AWS, Docker, REST APIs, and event-driven architecture**
 - 🌱 Currently exploring **AI Agents, Agentic Workflows, and scalable system design**
+- 🔧 Open-source contributor: merged fixes to **Langfuse** (LLM observability, metadata `__proto__` key handling, #17685/#17686) and **Celery** (docs fix, PR #10613)
 - ✍️ Built a LinkedIn community of **15K+ followers** with over **1M content views**
 
 ---
@@ -69,9 +70,10 @@ A dependency-free Python diff engine with histogram, patience, and Myers algorit
 [![GitHub stars](https://img.shields.io/github/stars/rmnvg/histodiff?style=flat-square&logo=github)](https://github.com/rmnvg/histodiff)
 
 ---
+
 ## 🌍 Open Source Contributions
 
-### [Langfuse](https://github.com/langfuse/langfuse)
+### 🔭 [Langfuse](https://github.com/langfuse/langfuse)
 
 **Fixed unsafe handling of the `__proto__` key in trace metadata for the open-source LLM observability platform.**
 
@@ -82,7 +84,7 @@ Reported the bug and shipped the fix, so metadata containing reserved object key
 ![Status](https://img.shields.io/badge/Status-Merged-2EA44F?style=flat-square)
 [![Stars](https://img.shields.io/github/stars/langfuse/langfuse?style=flat-square&logo=github)](https://github.com/langfuse/langfuse)
 
-### [Celery](https://github.com/celery/celery)
+### 🌿 [Celery](https://github.com/celery/celery)
 
 **Documentation fix for the Python distributed task queue.**
 
@@ -92,13 +94,16 @@ Corrected the docs to make them clearer and more accurate for developers using C
 ![Status](https://img.shields.io/badge/Status-Merged-2EA44F?style=flat-square)
 [![Stars](https://img.shields.io/github/stars/celery/celery?style=flat-square&logo=github)](https://github.com/celery/celery)
 
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
 ![GitHub followers](https://img.shields.io/github/followers/rmnvg?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/rmnvg?style=social)
-![Profile views](https://komarev.com/ghpvc/?username=ramanjotsingh247&color=blue&label=Profile+views)
+![Profile views](https://komarev.com/ghpvc/?username=ramanjotsingh247&color=blue&label=Profile+views&style=flat-square)
+
 
 <br/>
 
