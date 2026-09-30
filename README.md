@@ -69,21 +69,28 @@ A dependency-free Python diff engine with histogram, patience, and Myers algorit
 [![GitHub stars](https://img.shields.io/github/stars/rmnvg/histodiff?style=flat-square&logo=github)](https://github.com/rmnvg/histodiff)
 
 ---
-
 ## 🌍 Open Source Contributions
 
 ### [Langfuse](https://github.com/langfuse/langfuse)
 
-**Merged fix for metadata `__proto__` key handling in the LLM observability platform.**
+**Fixed unsafe handling of the `__proto__` key in trace metadata for the open-source LLM observability platform.**
+
+Reported the bug and shipped the fix, so metadata containing reserved object keys is handled safely instead of breaking or polluting objects.
 
 [![Issue](https://img.shields.io/badge/Issue-%2317685-181717?style=flat-square&logo=github)](https://github.com/langfuse/langfuse/issues/17685)
 [![PR](https://img.shields.io/badge/PR-%2317686-8957E5?style=flat-square&logo=github)](https://github.com/langfuse/langfuse/pull/17686)
+![Status](https://img.shields.io/badge/Status-Merged-2EA44F?style=flat-square)
+[![Stars](https://img.shields.io/github/stars/langfuse/langfuse?style=flat-square&logo=github)](https://github.com/langfuse/langfuse)
 
-###  [Celery](https://github.com/celery/celery)
+### [Celery](https://github.com/celery/celery)
 
-**Merged documentation fix for the distributed task queue.**
+**Documentation fix for the Python distributed task queue.**
+
+Corrected the docs to make them clearer and more accurate for developers using Celery.
 
 [![PR](https://img.shields.io/badge/PR-%2310613-8957E5?style=flat-square&logo=github)](https://github.com/celery/celery/pull/10613)
+![Status](https://img.shields.io/badge/Status-Merged-2EA44F?style=flat-square)
+[![Stars](https://img.shields.io/github/stars/celery/celery?style=flat-square&logo=github)](https://github.com/celery/celery)
 
 ## 📊 GitHub Stats
 
