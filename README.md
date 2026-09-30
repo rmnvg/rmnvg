@@ -70,6 +70,21 @@ A dependency-free Python diff engine with histogram, patience, and Myers algorit
 
 ---
 
+## 🌍 Open Source Contributions
+
+### [Langfuse](https://github.com/langfuse/langfuse)
+
+**Merged fix for metadata `__proto__` key handling in the LLM observability platform.**
+
+[![Issue](https://img.shields.io/badge/Issue-%2317685-181717?style=flat-square&logo=github)](https://github.com/langfuse/langfuse/issues/17685)
+[![PR](https://img.shields.io/badge/PR-%2317686-8957E5?style=flat-square&logo=github)](https://github.com/langfuse/langfuse/pull/17686)
+
+###  [Celery](https://github.com/celery/celery)
+
+**Merged documentation fix for the distributed task queue.**
+
+[![PR](https://img.shields.io/badge/PR-%2310613-8957E5?style=flat-square&logo=github)](https://github.com/celery/celery/pull/10613)
+
 ## 📊 GitHub Stats
 
 <div align="center">
