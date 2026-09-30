@@ -102,7 +102,8 @@ Corrected the docs to make them clearer and more accurate for developers using C
 
 ![GitHub followers](https://img.shields.io/github/followers/rmnvg?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/rmnvg?style=social)
-![Profile views](https://komarev.com/ghpvc/?username=ramanjotsingh247&color=blue&label=Profile+views&style=flat-square)
+![Profile views](https://komarev.com/ghpvc/?username=ramanjotsingh247&color=blue&label=Profile+views)
+
 
 
 <br/>
