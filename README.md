@@ -2,133 +2,96 @@
 
 # Hi, I'm Ramanjot Singh 👋
 
-### Python Backend & Generative AI Engineer
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Python+Backend+%26+GenAI+Engineer;Building+RAG+%26+Agentic+AI+systems;FastAPI+%C2%B7+LangChain+%C2%B7+AWS+%C2%B7+Docker;Open+to+Backend+%2F+GenAI+roles" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Building+RAG+%26+Agentic+AI+systems;FastAPI+%2B+LangChain+%2B+AWS+%2B+Docker;15K%2B+LinkedIn+community+%7C+1M%2B+content+views;Open+to+Backend+%2F+GenAI+opportunities" alt="Typing SVG" />
+**Ex-Software Engineer – GenAI @ Zinnia** · **B.Tech CSE, NSUT Delhi** · 📍 Delhi, India
 
-<br/>
-
-🎓 B.Tech in Computer Science from **NSUT, Delhi**<br/>
-💼 Former Software Engineer – GenAI at **Zinnia**<br/>
-📍 Delhi, India | Available for Opportunities
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ramanjot%20Singh-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ramanjot-singh-5b574422b/)
-[![GitHub](https://img.shields.io/badge/GitHub-rmnvg-181717?style=for-the-badge&logo=github)](https://github.com/rmnvg)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramanjotsingh247@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00C2FF?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolioraman.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ramanjot-singh-5b574422b/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramanjotsingh247@gmail.com)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+### 👨‍💻 About Me
 
-- 🌐 Check out my work at [portfolioraman.vercel.app](https://portfolioraman.vercel.app)
-- 🤖 Building production-oriented **Generative AI, RAG, and document-intelligence systems**
-- ⚙️ Experienced in backend development using **Python, FastAPI, and Django**
-- ☁️ Hands-on experience with **AWS, Docker, REST APIs, and event-driven architecture**
-- 🌱 Currently exploring **AI Agents, Agentic Workflows, and scalable system design**
-- 🔧 Open-source contributor: merged fixes to **Langfuse** (LLM observability, metadata `__proto__` key handling, #17685/#17686) and **Celery** (docs fix, PR #10613)
-- ✍️ Built a LinkedIn community of **15K+ followers** with over **1M content views**
+- 🤖 I build production-grade **GenAI, RAG & document-intelligence** systems on a **Python / FastAPI / AWS** backbone
+- 🌱 Currently deep into **AI agents, agentic workflows & scalable system design**
+- 📦 Published **2 Python packages** on PyPI and contributed fixes to **Langfuse** & **Celery**
+- ✍️ Grew a LinkedIn community of **15K+ followers** with **1M+ content views**
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
-| Category | Technologies |
-|---|---|
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
-| **Backend** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white) |
-| **AI/ML** | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![LLMs](https://img.shields.io/badge/LLMs-4B4B4B?style=flat-square) ![RAG](https://img.shields.io/badge/RAG-4B4B4B?style=flat-square) ![AI Agents](https://img.shields.io/badge/AI%20Agents-4B4B4B?style=flat-square) ![Embeddings](https://img.shields.io/badge/Embeddings-4B4B4B?style=flat-square) ![Vector Search](https://img.shields.io/badge/Vector%20Search-4B4B4B?style=flat-square) ![OCR](https://img.shields.io/badge/OCR-4B4B4B?style=flat-square) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
-| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white) |
-| **Cloud & Tools** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Lambda](https://img.shields.io/badge/Lambda-4B4B4B?style=flat-square) ![S3](https://img.shields.io/badge/S3-4B4B4B?style=flat-square) ![EC2](https://img.shields.io/badge/EC2-4B4B4B?style=flat-square) ![REST APIs](https://img.shields.io/badge/REST%20APIs-4B4B4B?style=flat-square) ![CI/CD](https://img.shields.io/badge/CI%2FCD-4B4B4B?style=flat-square) |
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,cpp,ts,fastapi,django,nodejs,react,nextjs,tailwind,postgres,mongodb,redis,aws,docker,linux,git,tensorflow&perline=9" alt="Tech stack" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white" />
+  <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-00C2FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/AI_Agents-00C2FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Vector_Search-00C2FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Embeddings-00C2FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/OCR-00C2FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Lambda_·_S3_·_EC2-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" />
+</p>
 
 ---
 
-## 📦 Packages I Published
+### 📦 Packages I Published
 
-### 🧠 [MemBlame](https://github.com/rmnvg/memblame)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Git blame for memory: find the commit and function behind a memory regression.**
+#### 🧠 [MemBlame](https://github.com/rmnvg/memblame)
+**`git blame` for memory.** Runs Python workloads across Git revisions, compares peak & retained memory, and traces regressions to the exact commit and function. Ships with CI reports and an editor extension.
 
-Run Python workloads across Git revisions, compare peak and retained memory, and connect significant growth to functions and changed code. Includes CI reports and an editor extension.
-
-[![PyPI](https://img.shields.io/pypi/v/memblame?style=flat-square&label=PyPI)](https://pypi.org/project/memblame/)
+[![PyPI](https://img.shields.io/pypi/v/memblame?style=flat-square&label=PyPI&color=00C2FF)](https://pypi.org/project/memblame/)
 [![Downloads](https://img.shields.io/pypi/dm/memblame?style=flat-square&label=downloads)](https://pypistats.org/packages/memblame)
-[![GitHub stars](https://img.shields.io/github/stars/rmnvg/memblame?style=flat-square&logo=github)](https://github.com/rmnvg/memblame)
+[![Stars](https://img.shields.io/github/stars/rmnvg/memblame?style=flat-square&logo=github)](https://github.com/rmnvg/memblame)
 
-### 🔍 [HistoDiff](https://github.com/rmnvg/histodiff)
+</td>
+<td width="50%" valign="top">
 
-**Human-readable diffs for moved, repeated, or reformatted text.**
+#### 🔍 [HistoDiff](https://github.com/rmnvg/histodiff)
+**Human-readable diffs for moved, repeated, or reformatted text.** Dependency-free engine with histogram, patience & Myers algorithms, moved-block detection, word-level highlights, Git integration, and terminal/HTML/JSON output.
 
-A dependency-free Python diff engine with histogram, patience, and Myers algorithms, moved-block detection, word-level highlighting, Git integration, and terminal, HTML, and JSON output.
-
-[![PyPI](https://img.shields.io/pypi/v/histodiff?style=flat-square&label=PyPI)](https://pypi.org/project/histodiff/)
+[![PyPI](https://img.shields.io/pypi/v/histodiff?style=flat-square&label=PyPI&color=00C2FF)](https://pypi.org/project/histodiff/)
 [![Downloads](https://img.shields.io/pypi/dm/histodiff?style=flat-square&label=downloads)](https://pypistats.org/packages/histodiff)
-[![GitHub stars](https://img.shields.io/github/stars/rmnvg/histodiff?style=flat-square&logo=github)](https://github.com/rmnvg/histodiff)
+[![Stars](https://img.shields.io/github/stars/rmnvg/histodiff?style=flat-square&logo=github)](https://github.com/rmnvg/histodiff)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🌍 Open Source Contributions
+### 🌍 Open Source Contributions
 
-### 🔭 [Langfuse](https://github.com/langfuse/langfuse)
-
-**Fixed unsafe handling of the `__proto__` key in trace metadata for the open-source LLM observability platform.**
-
-Reported the bug and shipped the fix, so metadata containing reserved object keys is handled safely instead of breaking or polluting objects.
-
-[![Issue](https://img.shields.io/badge/Issue-%2317685-181717?style=flat-square&logo=github)](https://github.com/langfuse/langfuse/issues/17685)
-[![PR](https://img.shields.io/badge/PR-%2317686-8957E5?style=flat-square&logo=github)](https://github.com/langfuse/langfuse/pull/17686)
-![Status](https://img.shields.io/badge/Status-Merged-2EA44F?style=flat-square)
-[![Stars](https://img.shields.io/github/stars/langfuse/langfuse?style=flat-square&logo=github)](https://github.com/langfuse/langfuse)
-
-### 🌿 [Celery](https://github.com/celery/celery)
-
-**Documentation fix for the Python distributed task queue.**
-
-Corrected the docs to make them clearer and more accurate for developers using Celery.
-
-[![PR](https://img.shields.io/badge/PR-%2310613-8957E5?style=flat-square&logo=github)](https://github.com/celery/celery/pull/10613)
-![Status](https://img.shields.io/badge/Status-Merged-2EA44F?style=flat-square)
-[![Stars](https://img.shields.io/github/stars/celery/celery?style=flat-square&logo=github)](https://github.com/celery/celery)
+| Project | Contribution | Links |
+|:--|:--|:--|
+| 🔭 **[Langfuse](https://github.com/langfuse/langfuse)**<br/><sub>LLM observability</sub> | Reported & fixed unsafe `__proto__` key handling in trace metadata | [Issue #17685](https://github.com/langfuse/langfuse/issues/17685) · [PR #17686](https://github.com/langfuse/langfuse/pull/17686) ✅ |
+| 🌿 **[Celery](https://github.com/celery/celery)**<br/><sub>Distributed task queue</sub> | Documentation fix for clarity and accuracy | [PR #10613](https://github.com/celery/celery/pull/10613) ✅ |
 
 ---
-
-## 📊 GitHub Stats
 
 <div align="center">
-
-![GitHub followers](https://img.shields.io/github/followers/rmnvg?style=social)
-![GitHub stars](https://img.shields.io/github/stars/rmnvg?style=social)
-![Profile views](https://komarev.com/ghpvc/?username=ramanjotsingh247&color=blue&label=Profile+views)
-
-
-
-<br/>
 
 <a href="https://github.com/rmnvg">
-  <img alt="rmnvg GitHub streak" src="https://streak-stats.demolab.com/?user=rmnvg&theme=dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=rmnvg&theme=dark&hide_border=true" alt="GitHub streak" />
 </a>
 
-</div>
+![Followers](https://img.shields.io/github/followers/rmnvg?style=social)
+![Stars](https://img.shields.io/github/stars/rmnvg?style=social)
+![Profile views](https://komarev.com/ghpvc/?username=ramanjotsingh247&color=00C2FF&style=flat-square&label=Profile+views)
 
----
-
-## 🤝 Let's Connect
-
-I am interested in opportunities involving:
-
-- Python backend engineering
-- Generative AI and RAG
-- AI agents and intelligent automation
-- AWS-based scalable systems
-- Machine learning engineering
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ramanjot-singh-5b574422b/)
-[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramanjotsingh247@gmail.com)
+**💬 Open to Python Backend · GenAI · AI Agents · ML Engineering roles — let's talk!**
 
 </div>
