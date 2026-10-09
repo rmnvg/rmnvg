@@ -92,6 +92,6 @@
 ![Stars](https://img.shields.io/github/stars/rmnvg?style=social)
 ![Profile views](https://komarev.com/ghpvc/?username=ramanjotsingh247&color=00C2FF&style=flat-square&label=Profile+views)
 
-**💬 Open to Python Backend · GenAI · AI Agents · ML Engineering roles — let's talk!**
+
 
 </div>
